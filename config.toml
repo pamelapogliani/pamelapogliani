@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://pamelapogliani.github.io/pamelapogliani/"
 languageCode = "en-us"
 title = "A Hugo website"
 theme = "strange-case"
